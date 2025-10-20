@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "ID": "RockTechnology",
+      "PWD": "Manish"
+    },
+    {
+      "ID": "Govind",
+      "PWD": "123"
+    }
+  ]
+}
